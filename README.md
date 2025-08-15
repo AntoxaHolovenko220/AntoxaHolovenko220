@@ -56,17 +56,17 @@ Always open to learning new tools and technologies.
 ### 🚀 What I Do
 - Develop CRM systems and corporate applications  
 - Build websites and web services from scratch  
-- Integrate with external APIs (OpenWeatherMap, Nova Poshta API)  
+- Integrate with external APIs  
 - Optimize both frontend and backend performance  
 
 ---
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://t.me/YourUsername">
+  <a href="https://t.me/antooxa220">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:antonholovenko220@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
